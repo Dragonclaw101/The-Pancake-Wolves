@@ -1,0 +1,10 @@
+Git Commands:
+# First time Git work
+$ git init
+$ git remote add origin https://github...git # you would paste the full github address for your repo
+
+# Normal work flow:
+$ git pull origin master # get changes from repo
+$ git add . # stage everything
+$ git commit -m "adding commit message" # don't forget the message"
+$ git push origin master # push your changes through
